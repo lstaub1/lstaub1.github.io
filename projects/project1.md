@@ -6,7 +6,7 @@
 
 This Choropleth map was created using ArcMap Version 10.7 to display different statistical classification methods for both absolute or normalized data. 
 
-<img src="images/choro_arcmap.jpg?raw=true"/>
+<img src="/images/choro_arcmap.jpg?raw=true"/>
 
 [Choropleth Map](/pdf/LeahStaub_Choropleth_am.pdf)
 
