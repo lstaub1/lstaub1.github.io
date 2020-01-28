@@ -5,7 +5,6 @@
 ### GES 286 
 
 [Project 1 Title](/projects/project1)
-(/images/choropleth.jpg)
 <img src="images/choropleth.jpg?raw=true"/>
 
 ---
