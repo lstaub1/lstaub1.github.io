@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### GES 286 ArcPro 
 
 [Project 1 Title](/projects/project1)
-<img src="images/choropleth_snip.jpg?raw=true"/>
+<img src="images/choropleth.jpg.jpg?raw=true"/>
 
 [Choropleth Map](/pdf/LeahStaub_Choropleth.pdf)
 <img src="images/choropleth.jpg?raw=true"/>
