@@ -5,7 +5,7 @@
 ### GES 286 
 
 [Project 1 Title](/projects/project1)
-<img src="images/choropleth.jpg.jpg?raw=true"/>
+<img src="images/choropleth.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
