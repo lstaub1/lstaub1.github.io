@@ -7,8 +7,8 @@
 [Project 1 Title](/projects/project1)
 <img src="images/choropleth_snip.jpg?raw=true"/>
 
-[Project 1 Title](/pdf/LeahStaub_Choropleth.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Choropleth Map](/pdf/LeahStaub_Choropleth.pdf)
+<img src="images/choropleth_snip.jpg?raw=true"/>
 
 
 ---
