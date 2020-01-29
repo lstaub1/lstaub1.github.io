@@ -10,6 +10,7 @@
 
 ---
 [UMBC Elevation & Classification Maps](/projects/project2)
+
 <img src="images/class286.JPG?raw=true"/>
 
 ---
