@@ -14,7 +14,7 @@ This Choropleth map was created using ArcMap Version 10.7 to display different s
 
 This Choropleth map was created using ArcPro Version 2.4 to display different statistical classification methods for both absolute or normalized data. 
 
-<img src="../images/choropleth.jpg?raw=true"/>
+<img src="../images/choropleth.JPG?raw=true"/>
 
 [Choropleth Map](/pdf/LeahStaub_Choropleth_ap.pdf)
 
