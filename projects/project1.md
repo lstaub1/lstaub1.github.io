@@ -8,7 +8,7 @@ This Choropleth map was created using ArcMap Version 10.7 to display different s
 
 <img src="../images/choro_arcmap.JPG?raw=true"/>
 
-[Choropleth Map](/pdf/LeahStaub_Choropleth_am.pdf)
+[Click Here for ArcMap Choropleth Map PDF](/pdf/LeahStaub_Choropleth_am.pdf)
 
 ### 2. Choropleth Map in ArcPro 
 
@@ -16,5 +16,5 @@ This Choropleth map was created using ArcPro Version 2.4 to display different st
 
 <img src="../images/choropleth.JPG?raw=true"/>
 
-[Choropleth Map](/pdf/LeahStaub_Choropleth_ap.pdf)
+[Click Here for ArcPro Choropleth Map PDF](/pdf/LeahStaub_Choropleth_ap.pdf)
 
