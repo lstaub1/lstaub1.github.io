@@ -4,7 +4,7 @@
 
 ### GES 286 
 
-[Project 1 Title](/projects/project1)
+[Choropleth Map](/projects/project1)
 
 <img src="images/choropleth.JPG?raw=true"/>
 
