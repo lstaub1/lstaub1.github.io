@@ -9,16 +9,16 @@
 <img src="images/choropleth.JPG?raw=true"/>
 
 ---
-[Project 2 Title](/projects/project2)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[UMBC Elevation & Classification Maps](/projects/project2)
+<img src="images/class286.JPG?raw=true"/>
 
 ---
 
-### Category Name 2
+### GES 381
+
+[Project 3 Title](/projects/project3)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
