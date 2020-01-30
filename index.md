@@ -17,18 +17,9 @@
 
 ### GES 381
 
-[Project 3 Title](/projects/project3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chesapeake Bay Land Cover Changes](/projects/project3)
 
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+<img src="images/chesapeake_landcover_changes.JPG?raw=true"/>
 
 
 
