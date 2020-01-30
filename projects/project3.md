@@ -4,6 +4,8 @@
 
 Landsat 4-5 imagery was used for the year 1985, landsat 7 imagery was used for the year 2000, and landsat 8 imagery was used for the year 2015. Landcover maps were created in ENVI and saved as TIF files, while the confusion matrices and pie charts were created in excel. 
 
+In the following presentation, we explore this question:
+
 ### Is the landcover type in the Chesapeake Bay region correlated to it's overall health? 
 
 
