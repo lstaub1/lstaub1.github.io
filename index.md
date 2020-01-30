@@ -4,7 +4,7 @@
 
 ### GES 286 
 
-[Choropleth Map](/projects/project1)
+[Choropleth Maps](/projects/project1)
 
 <img src="images/choropleth.JPG?raw=true"/>
 
@@ -17,7 +17,7 @@
 
 ### GES 381
 
-[Chesapeake Bay Land Cover Changes](/projects/project3)
+[Assessing Chesapeake Bay Land Cover Changes](/projects/project3)
 
 <img src="images/chesapeake_landcover_changes.JPG?raw=true"/>
 
