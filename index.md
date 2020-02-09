@@ -7,12 +7,14 @@
 [Choropleth Maps](/projects/project1)
 
 African Birth Rates displayed with 6 different classification styles. 
+
 [<img src="images/choropleth.JPG?raw=true"/>](/projects/project1)
 
 ---
 [UMBC Elevation & Classification Maps](/projects/project2)
 
 Elevation levels of the UMBC campus as well as a display UMBC campus building types.
+
 [<img src="images/class286.JPG?raw=true"/>](/projects/project1)
 
 ---
@@ -22,6 +24,7 @@ Elevation levels of the UMBC campus as well as a display UMBC campus building ty
 [Assessing Chesapeake Bay Land Cover Changes](/projects/project3)
 
 A powerpoint presentation explaining the process of creating land cover maps with various Landsat imagery.
+
 [<img src="images/chesapeake_landcover_changes.JPG?raw=true"/>](/projects/project3)
 
 
