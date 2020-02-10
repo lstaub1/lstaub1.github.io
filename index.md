@@ -15,7 +15,7 @@ African Birth Rates displayed with 6 different classification styles.
 
 Elevation levels of the UMBC campus as well as a display UMBC campus building types.
 
-[<img src="images/class286.JPG?raw=true"/>](/projects/project1)
+[<img src="images/class286.JPG?raw=true"/>](/projects/project2)
 
 ---
 
