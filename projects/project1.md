@@ -10,7 +10,7 @@ This Choropleth map was created using ArcMap Version 10.7 to display different s
 
 [Click Here for ArcMap Choropleth Map PDF](/pdf/LeahStaub_Choropleth_am.pdf)
 
-### 2. Choropleth Map in ArcPro 
+### 2. Choropleth Map created in ArcPro 
 
 This Choropleth map was created using ArcPro Version 2.4 to display different statistical classification methods for both absolute and normalized data. 
 
