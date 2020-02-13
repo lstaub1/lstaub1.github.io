@@ -27,7 +27,15 @@ A powerpoint presentation explaining the process of creating land cover maps wit
 
 [<img src="images/chesapeake_landcover_changes.JPG?raw=true"/>](/projects/project3)
 
+---
 
+### GES 481
+
+[Assessing Seasonal Land Cover Changes in Kent Island](/projects/project4)
+
+A report on the creation of a seasonal land cover map in Kent Island, Maryland. 
+
+[<img src="images/KentIsland.PNG?raw=true"/>](/projects/project4)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
