@@ -45,6 +45,6 @@ A report on the creation of a seasonal land cover map in Kent Island, Maryland.
 
 Bird observations were taken on three different sites over the course of 30 days.  
 
-[<img src="images/KentIsland.PNG?raw=true"/>](/projects/project4)
+[<img src="images/birds.v1.PNG?raw=true"/>](/qgis2web_2020_02_17-23_11_02_383213)
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
