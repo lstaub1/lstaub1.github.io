@@ -4,7 +4,7 @@
 
 Northern Cardinals were tracked during the winter using GPS and radio techniques. Experimental subjects were fed using RFID selective technology and the effects of reproductive success were observed during the breeding season.
  
-<img src="../images/Cardi.jpg?raw=true"/>
+<img src="../images/Cardicrop.jpg?raw=true"/>
 Image taken by Bradley Weiss.
 
 [Click Here for Middle Branch Interactive Cardinal Tracking Map](/pdf/LStaub_GES481_Lab1.pdf)
