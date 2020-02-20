@@ -45,7 +45,7 @@ A report on the creation of a seasonal land cover map in Kent Island, Maryland.
 
 Bird observations were taken on three different sites over the course of 30 days.  
 
-[<img src="../images/Cardicrop.jpg?raw=true"/>](/projects/project5)
+[<img src="images/Cardicrop.jpg?raw=true"/>](/projects/project5)
 Image taken by Bradley Weiss.
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
