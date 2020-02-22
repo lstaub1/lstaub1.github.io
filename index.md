@@ -2,18 +2,6 @@
 
 ---
 
-### NOCA Tracking
-
-[Interactive Maps on Bird Siting Locations](/projects/project5)
-
-Bird observations were taken on three different sites over the course of 30 days.  
-
-[<img src="images/Cardicrop.jpg?raw=true" style="max-width:400px"/>](/projects/project5)
-
-Image taken by Bradley Weiss.
-
----
-
 ### GES 286 
 
 [Choropleth Maps](/projects/project1)
@@ -48,6 +36,18 @@ A powerpoint presentation explaining the process of creating land cover maps wit
 A report on the creation of a seasonal land cover map in Kent Island, Maryland. 
 
 [<img src="images/KentIsland.PNG?raw=true"/>](/projects/project4)
+
+---
+
+### NOCA Tracking
+
+[Interactive Maps on Bird Siting Locations](/projects/project5)
+
+Bird observations were taken on three different sites over the course of 30 days.  
+
+[<img src="images/Cardicrop.jpg?raw=true" style="max-width:400px"/>](/projects/project5)
+
+Image taken by Bradley Weiss.
 
 ---
 
