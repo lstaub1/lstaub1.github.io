@@ -9,4 +9,4 @@ Image taken by Bradley Weiss.
 
 The following web maps display the location of Cardinal sightings over the month of January 2020. When each point is clicked on, the radio frequency number and RFID band number for each bird is displayed. 
 
-[Click Here for Middle Branch Interactive Cardinal Tracking Map](/pdf/LStaub_GES481_Lab1.pdf)
+[Click Here for Middle Branch Interactive Cardinal Tracking Map](/qgis2web_2020_02_17-23_11_02_383213)
