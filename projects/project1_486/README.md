@@ -6,6 +6,8 @@ According to the Chesapeake Bay Program, SAV's add oxygen to the water, improve 
 
 SAV's have been mapped since 1984 and restoration efforts were put into place in 2014 when the Chesapeake Bay Watershed Agreement was enacted. The ultimate goal of these efforts is to have 90,000 acres of underwater grasses by 2017 and 130,000 acres by 2025. 
 
+[<img src="images/SAV2.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
+
 ### Data: 
 
 SAV
