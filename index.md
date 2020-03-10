@@ -1,21 +1,21 @@
 ## Portfolio
 
----
+### GES 486
+[Project 1: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
+A Time series displaying the density changes in Submerged Aquatic Vegetation in the Chesapeake Bay from 1984 to 2018. 
 
-### GES 286 
+[<img src="images/SAV.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
 
-[Choropleth Maps](/projects/project1)
 
-African Birth Rates displayed with 6 different classification styles. 
+### NOCA Tracking
 
-[<img src="images/choropleth.JPG?raw=true"/>](/projects/project1)
+[Interactive Maps on Bird Siting Locations](/projects/project5)
 
----
-[UMBC Elevation & Classification Maps](/projects/project2)
+Bird observations were taken on three different sites over the course of 30 days.  
 
-Elevation levels of the UMBC campus as well as a display UMBC campus building types.
+[<img src="images/Cardicrop.jpg?raw=true" style="max-width:400px"/>](/projects/project5)
 
-[<img src="images/class286.JPG?raw=true"/>](/projects/project2)
+Image taken by Bradley Weiss.
 
 ---
 
@@ -39,15 +39,20 @@ A report on the creation of a seasonal land cover map in Kent Island, Maryland.
 
 ---
 
-### NOCA Tracking
+### GES 286 
 
-[Interactive Maps on Bird Siting Locations](/projects/project5)
+[Choropleth Maps](/projects/project1)
 
-Bird observations were taken on three different sites over the course of 30 days.  
+African Birth Rates displayed with 6 different classification styles. 
 
-[<img src="images/Cardicrop.jpg?raw=true" style="max-width:400px"/>](/projects/project5)
+[<img src="images/choropleth.JPG?raw=true"/>](/projects/project1)
 
-Image taken by Bradley Weiss.
+---
+[UMBC Elevation & Classification Maps](/projects/project2)
+
+Elevation levels of the UMBC campus as well as a display UMBC campus building types.
+
+[<img src="images/class286.JPG?raw=true"/>](/projects/project2)
 
 ---
 
