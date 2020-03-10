@@ -24,8 +24,6 @@ Githubs for slider bar
 https://leafletjs.com/plugins.html
 
 
-[<img src="images/SAV2.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
-
 
 ### NOCA Tracking
 
@@ -75,6 +73,8 @@ Elevation levels of the UMBC campus as well as a display UMBC campus building ty
 [<img src="images/class286.JPG?raw=true"/>](/projects/project2)
 
 ---
+
+[<img src="images/SAV2.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
