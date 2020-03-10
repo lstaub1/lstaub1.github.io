@@ -6,16 +6,6 @@ A Time series displaying the density changes in Submerged Aquatic Vegetation in 
 
 [<img src="images/SAV2.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
 
-### Data: 
-
-SAV
-https://data.imap.maryland.gov/datasets/5c69fa401b004b9b93005f2557d5c972_0?geometry=-83.944%2C36.735%2C-69.090%2C39.754
-
-
-Githubs for slider bar
-https://leafletjs.com/plugins.html
-
-
 
 ### NOCA Tracking
 
