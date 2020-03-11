@@ -4,7 +4,7 @@
 [Project 1: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
 A Time series displaying the density changes in Submerged Aquatic Vegetation in the Chesapeake Bay from 1984 to 2018. 
 
-[<img src="images/SAV2.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
+[<img src="images/SAV4.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
 
 
 ### NOCA Tracking
