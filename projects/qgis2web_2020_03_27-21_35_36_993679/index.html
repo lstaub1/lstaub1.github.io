@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <style>
+        #map {
+            width: 842px;
+            height: 501px;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="data/CoronaVsToiletPaper_1.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        }).fitBounds([[13.739972977568787,-143.63730952514075],[58.05970409870073,-43.7322905530584]]);
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+        }
+        var layer_CartoLight_0 = L.tileLayer('http://a.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
+            opacity: 1.0,
+            attribution: '',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 22
+        });
+        layer_CartoLight_0;
+        map.addLayer(layer_CartoLight_0);
+        function pop_CoronaVsToiletPaper_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['GEOID'] !== null ? Autolinker.link(feature.properties['GEOID'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['NAME'] !== null ? Autolinker.link(feature.properties['NAME'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['popltnE'] !== null ? Autolinker.link(feature.properties['popltnE'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['popltnM'] !== null ? Autolinker.link(feature.properties['popltnM'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['pop_shr'] !== null ? Autolinker.link(feature.properties['pop_shr'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['covid_pts'] !== null ? Autolinker.link(feature.properties['covid_pts'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['covid_shar'] !== null ? Autolinker.link(feature.properties['covid_shar'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['tp_pts'] !== null ? Autolinker.link(feature.properties['tp_pts'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['tp_share'] !== null ? Autolinker.link(feature.properties['tp_share'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['covid_v_tp'] !== null ? Autolinker.link(feature.properties['covid_v_tp'].toLocaleString(), {truncate: {length: 30, location: 'smart'}}) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_CoronaVsToiletPaper_1_0(feature) {
+            if (feature.properties['covid_v_tp'] >= -0.030000 && feature.properties['covid_v_tp'] <= -0.020000 ) {
+                return {
+                pane: 'pane_CoronaVsToiletPaper_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(166,97,26,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_tp'] >= -0.020000 && feature.properties['covid_v_tp'] <= -0.010000 ) {
+                return {
+                pane: 'pane_CoronaVsToiletPaper_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(223,194,125,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_tp'] >= -0.010000 && feature.properties['covid_v_tp'] <= 0.010000 ) {
+                return {
+                pane: 'pane_CoronaVsToiletPaper_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(245,245,245,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_tp'] >= 0.010000 && feature.properties['covid_v_tp'] <= 0.020000 ) {
+                return {
+                pane: 'pane_CoronaVsToiletPaper_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(128,205,193,1.0)',
+                interactive: true,
+            }
+            }
+            if (feature.properties['covid_v_tp'] >= 0.020000 && feature.properties['covid_v_tp'] <= 0.048000 ) {
+                return {
+                pane: 'pane_CoronaVsToiletPaper_1',
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(1,133,113,1.0)',
+                interactive: true,
+            }
+            }
+        }
+        map.createPane('pane_CoronaVsToiletPaper_1');
+        map.getPane('pane_CoronaVsToiletPaper_1').style.zIndex = 401;
+        map.getPane('pane_CoronaVsToiletPaper_1').style['mix-blend-mode'] = 'normal';
+        var layer_CoronaVsToiletPaper_1 = new L.geoJson(json_CoronaVsToiletPaper_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_CoronaVsToiletPaper_1',
+            layerName: 'layer_CoronaVsToiletPaper_1',
+            pane: 'pane_CoronaVsToiletPaper_1',
+            onEachFeature: pop_CoronaVsToiletPaper_1,
+            style: style_CoronaVsToiletPaper_1_0,
+        });
+        bounds_group.addLayer(layer_CoronaVsToiletPaper_1);
+        map.addLayer(layer_CoronaVsToiletPaper_1);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'Corona Vs. Toilet Paper<br /><table><tr><td style="text-align: center;"><img src="legend/CoronaVsToiletPaper_1_muchmoretoiletpaper0.png" /></td><td>much more toilet paper</td></tr><tr><td style="text-align: center;"><img src="legend/CoronaVsToiletPaper_1_moretoiletpaper1.png" /></td><td>more toilet paper</td></tr><tr><td style="text-align: center;"><img src="legend/CoronaVsToiletPaper_1_toiletpaperandcoronaequal2.png" /></td><td>toilet paper and corona equal</td></tr><tr><td style="text-align: center;"><img src="legend/CoronaVsToiletPaper_1_morecorona3.png" /></td><td>more corona</td></tr><tr><td style="text-align: center;"><img src="legend/CoronaVsToiletPaper_1_muchmorecorona4.png" /></td><td>much more corona</td></tr></table>': layer_CoronaVsToiletPaper_1,"Carto Light": layer_CartoLight_0,},{collapsed:false}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
