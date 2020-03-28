@@ -1,7 +1,12 @@
 ## Portfolio
 
 ### GES 486
-[Project 1: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
+[Project 6: Comparing Tweets in the United States During the Corona Virus Outbreak](/projects/project6)
+Maps that compare American tweets about the Corona Virus Pandemic and Toilet Paper. 
+
+[<img src="images/states.PNG?raw=true" style="max-width:600px"/>](/projects/qgis2web_2020_03_27-21_35_36_993679)
+
+[Project 5: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
 A Time series displaying the density changes in Submerged Aquatic Vegetation in the Chesapeake Bay from 1984 to 2018. 
 
 [<img src="images/SAV4.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
