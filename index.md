@@ -1,10 +1,15 @@
 ## Portfolio
 
 ### GES 486
-[Project 5: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
+[Class Project 2: Bigfoot](/projects/project2_486)
+An analysis of Bigfoot sightings thoughout the United States. 
+
+[<img src="images/sights.PNG?raw=true" style="max-width:400px"/>](/projects/project2_486)
+
+[Class Project 1: SAV Density Spatial & Temporal Analysis in the Chesapeake Bay](/projects/project1_486/README.md)
 A Time series displaying the density changes in Submerged Aquatic Vegetation in the Chesapeake Bay from 1984 to 2018. 
 
-[<img src="images/SAV4.gif?raw=true" style="max-width:400px"/>](/projects/project1_486/README.md)
+[<img src="images/SAV4.gif?raw=true"/>](/projects/project1_486/README.md)
 
 [Project 6: Comparing Tweets in the United States During the Corona Virus Outbreak](/projects/project6)
 Maps that compare American tweets about the Corona Virus Pandemic and Toilet Paper. 
