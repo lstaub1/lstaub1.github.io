@@ -17,11 +17,15 @@ Some of the quick maps I've made so far are below:
 **Project description:** This project uses bigfoot data compiled from the Bigfoot Field Researchers Organization (BFRO) and other factors to create a map that displays suitable habitat for bigfoot in the US. The other factors used include: Vegetation, Elevation, Precipitation, and Temperature. 
 
 Find the raster data used here: 
+
 https://www.diva-gis.org/datadown
+
 https://www.fs.fed.us/rm/boise/AWAE/projects/NFS-regional-climate-change-maps/categories/us-raster-layers.html
+
 http://www.diva-gis.org/datadown
 
 The Point Sampling Tool Plugin was used in Q to do this analysis. A great tutorial on how to use it is linked below:
+
 https://www.qgistutorials.com/en/docs/sampling_raster_data.html
 
 This tool allowed me to see which values of each raster had the most bigfoot sightings. 
