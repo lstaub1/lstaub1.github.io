@@ -30,19 +30,19 @@ https://www.qgistutorials.com/en/docs/sampling_raster_data.html
 
 This tool allowed me to see which values of each raster had the most bigfoot sightings. 
 
-**Elevation:
+**Elevation:**
 
 <img src="../images/elev.png?raw=true"/>
 
-**Temperature:
+**Temperature:**
 
 <img src="../images/temp.png?raw=true"/>
 
-**Vegetation:
+**Vegetation:**
 
 <img src="../images/veg.png?raw=true"/>
 
-**Precipitation:
+**Precipitation:**
 
 <img src="../images/precip.png?raw=true"/>
 
