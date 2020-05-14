@@ -42,3 +42,19 @@ Precipitation:
 
 <img src="../images/precip.png?raw=true"/>
 
+I then could use Raster Calculator to create rasters of each factor that designated where there was the most sightings. 
+
+[<img src="../images/bfprecip.png?raw=true"/>](/pdf/LStaub_bf_precip.pdf)
+
+[<img src="../images/bfelev.png?raw=true"/>](/pdf/LStaub_bf_elev.pdf)
+
+[<img src="../images/bfveg.png?raw=true"/>](/pdf/LStaub_bf_veg.pdf)
+
+[<img src="../images/bftemp.png?raw=true"/>](/pdf/LStaub_bf_temp.pdf)
+
+Using Raster Calculator again, I was able to add up all of these rasters to creater a map displaying suitable bigfoot habitat in the US.
+
+[<img src="../images/bfhabitat.png?raw=true"/>](/pdf/LStaub_bf_habitat.pdf)
+
+
+
